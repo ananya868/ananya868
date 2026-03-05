@@ -4,9 +4,9 @@
 
 ### 😼 Expertise
 
-- **Programming Languages**: `Python (advanced)`, `R (intermediate)`, `C++ (intermediate)`, `Java (Basic)`, `JavaScript (Basic)`, `SQL`
+- **Programming Languages**: `Python (advanced)`, `R (Basics)`, `C++ (intermediate)`, `Java (Basic)`, `SQL`
   
-- **LLM**: `LangChain`, `Llama-Index`, `Open-Source AI (HuggingFace, Ollama)`, `Fine-Tuning LLMs with Lora, QLora, Deepspeed`, `Multi-Ai Agentic sytems (Autogen, Crewai)`, `Instruction Fine-tuning`, `Prompt Engineering`, `RAG, GraphRAG, Agentic RAG, Self-Reflection RAG`, `Transformers, Longformer`, `Bias mitigation, Explainable AI, SHAP` 
+- **GenAI**: `LangChain`, `Llama-Index`, `Open-Source AI (HuggingFace, Ollama)`, `Multi-Ai Agentic sytems (Autogen, Crewai)`, `Prompt Engineering`, `RAG, GraphRAG, Agentic RAG, Self-Reflection RAG`, `Fine-Tuning LLMs with Lora, QLora, Deepspeed`, `Bias mitigation, Explainable AI, SHAP`
 
 - **Data Science & ML**: `Data Cleaning & Transformation (NumPy, Pandas)`, `Exploratory Data Analysis (Matplotlib, Seaborn)`, `Feature Engineering`, `Model Building (Scikit-Learn)`, `Model Evaluation & Tuning`, `Regression and Classification Algorithms`, `Time-Series forecasting`, `Deploying ML Solutions (MLFlow, SageMaker, DVC, Feast)`
 
@@ -15,8 +15,6 @@
 - **NLP**: `Text Processing Pipelines`, `Worked on RNNs, LSTM, GRU, Transformers, BERT`, `POS, NER` 
 
 - **Computer Vision**: `Optimized ImageNet, Xception, ResNet, U-Net for Medical Data`, `Implemented Object Detection, Object Segmentation, Pose Estimation solutions`
-
-- **Generative AI**: `Worked on Defusion models, ERSGAN, SRCNN for upscaling image, Music Generation`
 
 - **Databases**: `Qdrant`, `Pinecone`, `FAISS`, `MySQL` 
 
