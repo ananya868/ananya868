@@ -14,8 +14,6 @@
 
 - **NLP**: `Text Processing Pipelines`, `Worked on RNNs, LSTM, GRU, Transformers, BERT`, `POS, NER` 
 
-- **Computer Vision**: `Optimized ImageNet, Xception, ResNet, U-Net for Medical Data`, `Implemented Object Detection, Object Segmentation, Pose Estimation solutions`
-
 - **Databases**: `Qdrant`, `Pinecone`, `FAISS`, `MySQL` 
 
 ### 🐈 Interests
