@@ -1,1 +1,3 @@
-<img src="my_profile.py.png" width="1200"/>
+<div align="center">
+  <img src="my_profile.py.png" width="70%" style="margin-top:-20px"/>
+</div>
